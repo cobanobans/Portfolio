@@ -23,12 +23,16 @@ const Hero = () => {
             >
               <FaGithubSquare className=' text-slate-500 hover:text-black duration-300 h-8 w-8' />
             </a>
-            <a href=''>
+            <a
+              href='https://www.linkedin.com/in/%C4%91or%C4%91e-joci%C4%87-ab94aa284/'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
               <FaLinkedin className=' text-slate-500 hover:text-black duration-300 h-8 w-8' />
             </a>
-            <a href=''>
+            {/* <a href=''>
               <FaTwitterSquare className=' text-slate-500 hover:text-black duration-300 h-8 w-8' />
-            </a>
+            </a> */}
           </div>
         </article>
         <article className='hidden md:block'>
